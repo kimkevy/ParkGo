@@ -1,0 +1,7 @@
+{
+  "name": "ParkGo",
+  "description": "Smart parking ticketing application with M-Pesa STK push payments, duration rate calculator, and digital receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
